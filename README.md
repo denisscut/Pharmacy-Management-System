@@ -12,3 +12,5 @@ Pentru acest proiect am folosit urmatoarele plugin-uri/framework-uri.
  * [Qt](https://www.qt.io/)
 
 ## Poze
+![gif5](https://user-images.githubusercontent.com/92582380/189933828-8c1f09bf-a07c-47b8-a12e-e2a14a11e38f.gif)
+![gif6](https://user-images.githubusercontent.com/92582380/189933871-eaef47fa-879f-4961-8b7a-1848c2e206e4.gif)
